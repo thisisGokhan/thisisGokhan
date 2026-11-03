@@ -1,21 +1,20 @@
-# Merhaba! 👋 Ben Gökhan
+# Merhaba, ben Gökhan 👋
 
-### Hakkımda
-- 🌟 Laravel ile proje geliştirmeyi seviyorum ve bu alanda kendimi geliştiriyorum.
-- 🐍 Python ve ☕ JavaScript ile ilgileniyorum.
-- 🎨 Photoshop ve After Effects gibi programları kullanarak grafik tasarım ve video düzenleme işleri yapıyorum.
-- 🌱 Sürekli öğrenmeyi ve yeni teknolojiler keşfetmeyi seviyorum.
+Denizli'de solo full-stack geliştirici ve girişimciyim. 2010'dan beri Türkiye pazarına yönelik SaaS ürünleri ve ağ çözümleri geliştiriyorum. Ürünlerimi **[Nodvera](https://nodvera.io)** çatısı altında çıkarıyorum.
 
-### İlgi Alanlarım
-- **Web Geliştirme:** Laravel, Vue.js, Tailwind CSS
-- **Programlama Dilleri:** Python, JavaScript
-- **Multimedya:** Photoshop, After Effects
-- **Diğer Teknolojiler:** REST API, MySQL, Git
+### 🔧 Ne yapıyorum
+- **[LOGHISA](https://loghisa.com)**: 5651 uyumlu hotspot gateway ve çok kiracılı SaaS platformu *(canlıda)*
+- **Loghisa Edge**: OpenWrt tabanlı, kendi yazılım yığınımızla çalışan hotspot cihazı *(geliştirme aşamasında)*
+- **Yapay zekâ**: yerel LLM'ler, çoklu ajan mimarileri ve spec odaklı, yapay zekâ destekli geliştirme süreçleri
 
-### İletişim
-- 🐦 [Twitter](https://x.com/GokhanOksak)
-- 📧 [E-posta](mailto:gokhan@live.no)
+### 🧰 Teknoloji
+Laravel · React · MikroTik RouterOS · OpenWrt · MySQL · Python · Multi-tenant SaaS mimarisi
 
----
+### 📜 Mevzuat ve uyum
+5651 · KVKK · İYS · KAMUSM zaman damgası
 
-🌟 **Açık kaynak projelere katkıda bulunmayı seviyorum. Birlikte bir şeyler geliştirmek istersen bana ulaşmaktan çekinme!**
+### 📌 Not
+Kodlarımın büyük kısmı ticari ürünlere ait olduğu için gizli repolarda duruyor. Herkese açık paylaşabildiğim örnekleri ve araçları buraya ekliyorum.
+
+### 📫 İletişim
+🌐 [thisisgokhan.dev](https://thisisgokhan.dev) · 🐦 [X](https://x.com/GokhanOksak) · 📧 [E-posta](mailto:gokhan@live.no)
